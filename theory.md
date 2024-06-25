@@ -14,3 +14,6 @@ Obtain feedback from code reviews
 3.	Staging – This is where a modified file has been marked in its current version before it is pushed to the local repository.
 4.	Git init – This command initializes a new repository and ensures that the folder or working space is tracked by Git.
 5.	Diff between git clone and git pull? Git clone duplicates work from the remote repository however git pull stores in on the local machine
+
+Branch, Merge, Conflict Homework
+9.	What is a merge conflict and how do you resolve it? This is whereby two branches being merged have changes to the same parts of the same files and Git cannot reconcile the differences. Manual intervention resolves merge conflicts. These include, Smaller commits, Communication, Frequent Pulling and Merging
