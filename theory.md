@@ -15,5 +15,12 @@ Obtain feedback from code reviews
 4.	Git init – This command initializes a new repository and ensures that the folder or working space is tracked by Git.
 5.	Diff between git clone and git pull? Git clone duplicates work from the remote repository however git pull stores in on the local machine
 
-Branch, Merge, Conflict Homework
+Branch, Merge, Conflict Homework 6/15/24 class
 9.	What is a merge conflict and how do you resolve it? This is whereby two branches being merged have changes to the same parts of the same files and Git cannot reconcile the differences. Manual intervention resolves merge conflicts. These include, Smaller commits, Communication, Frequent Pulling and Merging
+
+Continuation of the assignment from 6/15 class
+2.	How do you clone a repository? git clone <repository name_url>
+3.	How do you check the status of your Git repository? git status
+4.	How do you stage and commit changes? git commit -am
+5.	How do you create a new branch? git branch <branch name>
+13.	How do you find a specific commit in the history? git log
