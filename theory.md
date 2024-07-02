@@ -24,3 +24,16 @@ Continuation of the assignment from 6/15 class
 4.	How do you stage and commit changes? git commit -am
 5.	How do you create a new branch? git branch <branch name>
 13.	How do you find a specific commit in the history? git log
+
+
+1.	Explain the Git workflow? 
+Git workflow is a process whereby branches are created of the main/master. It enables developers to work in the branches rather the main to facilitate more collaborations, resolve conflicts and delay merging it to the main branch until the feature is complete. It enhances collaboration amongst developers as well as maintain multiple versions in production
+6.	Explain the concept of git branching strategy? 
+This is a workflow where multiple types of branches are used to manage lifecycle of the project. It enables work in isolation before joining to the main/master for deployment to production. It streamlines the development workflow whereby releases, bug fixes etc are managed easier.
+8.	How do you merge one branch into another? git merge
+10.	Why is branching important in Git? 
+It is important because it enables work in isolation without affecting the main/master and ensures an easier development workflow whereby releases, bug fixes etc are managed easier.
+11.	What is a pull request (PR) and what is its purpose? 
+The pull request is to have other team members review and comment work before it is merged to the main/master
+12.	Explain the concept of 'forking' in GitHub? 
+This is where changes are made to a project without affecting the original repository
